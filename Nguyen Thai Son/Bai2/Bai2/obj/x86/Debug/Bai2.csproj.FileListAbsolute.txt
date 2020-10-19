@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai2\Bai2\bin\Debug\Bai2.exe
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai2\Bai2\bin\Debug\Bai2.pdb
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai2\Bai2\obj\x86\Debug\Bai2.Form1.resources
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai2\Bai2\obj\x86\Debug\Bai2.Properties.Resources.resources
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai2\Bai2\obj\x86\Debug\Bai2.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai2\Bai2\obj\x86\Debug\Bai2.exe
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai2\Bai2\obj\x86\Debug\Bai2.pdb

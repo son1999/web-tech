@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Nguyen Thai Son\PhuongTrinh\PhuongTrinh\bin\Debug\PhuongTrinh.exe
+C:\Users\HP\Desktop\Nguyen Thai Son\PhuongTrinh\PhuongTrinh\bin\Debug\PhuongTrinh.pdb
+C:\Users\HP\Desktop\Nguyen Thai Son\PhuongTrinh\PhuongTrinh\obj\x86\Debug\PhuongTrinh.Form1.resources
+C:\Users\HP\Desktop\Nguyen Thai Son\PhuongTrinh\PhuongTrinh\obj\x86\Debug\PhuongTrinh.Properties.Resources.resources
+C:\Users\HP\Desktop\Nguyen Thai Son\PhuongTrinh\PhuongTrinh\obj\x86\Debug\PhuongTrinh.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Nguyen Thai Son\PhuongTrinh\PhuongTrinh\obj\x86\Debug\PhuongTrinh.exe
+C:\Users\HP\Desktop\Nguyen Thai Son\PhuongTrinh\PhuongTrinh\obj\x86\Debug\PhuongTrinh.pdb
+C:\Users\HP\Desktop\Nguyen Thai Son\PhuongTrinh\PhuongTrinh\obj\x86\Debug\PhuongTrinh.csprojResolveAssemblyReference.cache

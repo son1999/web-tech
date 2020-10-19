@@ -1,0 +1,8 @@
+F:\NguyenThaiSon\CSDL\CSDL\bin\Debug\CSDL.exe.config
+F:\NguyenThaiSon\CSDL\CSDL\bin\Debug\CSDL.exe
+F:\NguyenThaiSon\CSDL\CSDL\bin\Debug\CSDL.pdb
+F:\NguyenThaiSon\CSDL\CSDL\obj\x86\Debug\CSDL.Form1.resources
+F:\NguyenThaiSon\CSDL\CSDL\obj\x86\Debug\CSDL.Properties.Resources.resources
+F:\NguyenThaiSon\CSDL\CSDL\obj\x86\Debug\CSDL.csproj.GenerateResource.Cache
+F:\NguyenThaiSon\CSDL\CSDL\obj\x86\Debug\CSDL.exe
+F:\NguyenThaiSon\CSDL\CSDL\obj\x86\Debug\CSDL.pdb

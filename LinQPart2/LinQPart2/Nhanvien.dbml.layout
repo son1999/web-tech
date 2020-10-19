@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Nhanvien">
+  <DataContextMoniker Name="/NhanvienDataContext" />
+  <nestedChildShapes>
+    <classShape Id="35b085c2-93c5-482f-89a2-fafed81dcaf5" absoluteBounds="3.5, 0.875, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/NhanvienDataContext/NHANVIEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1a823f47-639d-4a38-874d-ca45fdbf0684" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a0a22593-0b7d-4077-8651-f1fc7d8727a0" absoluteBounds="0.75, 1.375, 2, 1.3862939453125003">
+      <DataClassMoniker Name="/NhanvienDataContext/DONVI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2a49a8db-af49-4c7d-813e-ce4e50c479cf" absoluteBounds="0.765, 1.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.06814697265625); (3.5 : 2.06814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NhanvienDataContext/DONVI/DONVI_NHANVIEN" />
+      <nodes>
+        <classShapeMoniker Id="a0a22593-0b7d-4077-8651-f1fc7d8727a0" />
+        <classShapeMoniker Id="35b085c2-93c5-482f-89a2-fafed81dcaf5" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

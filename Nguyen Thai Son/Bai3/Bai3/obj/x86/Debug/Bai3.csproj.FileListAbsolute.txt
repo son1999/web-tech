@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai3\Bai3\bin\Debug\Bai3.exe
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai3\Bai3\bin\Debug\Bai3.pdb
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai3\Bai3\obj\x86\Debug\Bai3.Form1.resources
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai3\Bai3\obj\x86\Debug\Bai3.Properties.Resources.resources
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai3\Bai3\obj\x86\Debug\Bai3.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai3\Bai3\obj\x86\Debug\Bai3.exe
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai3\Bai3\obj\x86\Debug\Bai3.pdb
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai3\Bai3\obj\x86\Debug\Bai3.csprojResolveAssemblyReference.cache

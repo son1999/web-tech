@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Nguyen Thai Son\Mang\Mang\bin\Debug\Mang.exe
+C:\Users\HP\Desktop\Nguyen Thai Son\Mang\Mang\bin\Debug\Mang.pdb
+C:\Users\HP\Desktop\Nguyen Thai Son\Mang\Mang\obj\x86\Debug\Mang.Form1.resources
+C:\Users\HP\Desktop\Nguyen Thai Son\Mang\Mang\obj\x86\Debug\Mang.Properties.Resources.resources
+C:\Users\HP\Desktop\Nguyen Thai Son\Mang\Mang\obj\x86\Debug\Mang.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Nguyen Thai Son\Mang\Mang\obj\x86\Debug\Mang.exe
+C:\Users\HP\Desktop\Nguyen Thai Son\Mang\Mang\obj\x86\Debug\Mang.pdb

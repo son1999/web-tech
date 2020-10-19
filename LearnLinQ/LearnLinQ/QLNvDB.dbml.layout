@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QLNvDB">
+  <DataContextMoniker Name="/QLNvDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="96af928d-4ea4-41f3-a000-745bd55b1c04" absoluteBounds="0.75, 1.375, 2, 1.3862939453125003">
+      <DataClassMoniker Name="/QLNvDBDataContext/DONVI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cdb939dc-a5e4-4472-a6dd-72610f8b141e" absoluteBounds="0.765, 1.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="10bf955a-055d-45c6-a323-773cfc21f95f" absoluteBounds="7.125, 1, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/QLNvDBDataContext/NHANVIEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5ea360be-f2f4-40e8-8234-edf4efa1b2f5" absoluteBounds="7.1400000000000006, 1.46, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.06814697265625); (2.9975 : 2.06814697265625); (2.9975 : 2.56814697265625); (3.2525 : 2.56814697265625); (3.2525 : 2.92936907087054); (7.125 : 2.92936907087054)]" manuallyRouted="true" fixedFrom="Algorithm" fixedTo="Caller">
+      <AssociationMoniker Name="/QLNvDBDataContext/DONVI/DONVI_NHANVIEN" />
+      <nodes>
+        <classShapeMoniker Id="96af928d-4ea4-41f3-a000-745bd55b1c04" />
+        <classShapeMoniker Id="10bf955a-055d-45c6-a323-773cfc21f95f" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

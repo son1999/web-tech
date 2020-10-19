@@ -1,0 +1,9 @@
+F:\NguyenThaiSon\LinQPart2\LinQPart2\bin\Debug\LinQPart2.exe.config
+F:\NguyenThaiSon\LinQPart2\LinQPart2\bin\Debug\LinQPart2.exe
+F:\NguyenThaiSon\LinQPart2\LinQPart2\bin\Debug\LinQPart2.pdb
+F:\NguyenThaiSon\LinQPart2\LinQPart2\obj\x86\Debug\LinQPart2.csprojResolveAssemblyReference.cache
+F:\NguyenThaiSon\LinQPart2\LinQPart2\obj\x86\Debug\LinQPart2.Form1.resources
+F:\NguyenThaiSon\LinQPart2\LinQPart2\obj\x86\Debug\LinQPart2.Properties.Resources.resources
+F:\NguyenThaiSon\LinQPart2\LinQPart2\obj\x86\Debug\LinQPart2.csproj.GenerateResource.Cache
+F:\NguyenThaiSon\LinQPart2\LinQPart2\obj\x86\Debug\LinQPart2.exe
+F:\NguyenThaiSon\LinQPart2\LinQPart2\obj\x86\Debug\LinQPart2.pdb

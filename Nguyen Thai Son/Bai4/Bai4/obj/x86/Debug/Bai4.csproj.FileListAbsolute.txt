@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai4\Bai4\bin\Debug\Bai4.exe
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai4\Bai4\bin\Debug\Bai4.pdb
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai4\Bai4\obj\x86\Debug\Bai4.Form1.resources
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai4\Bai4\obj\x86\Debug\Bai4.Properties.Resources.resources
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai4\Bai4\obj\x86\Debug\Bai4.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai4\Bai4\obj\x86\Debug\Bai4.exe
+C:\Users\HP\Desktop\Nguyen Thai Son\Bai4\Bai4\obj\x86\Debug\Bai4.pdb

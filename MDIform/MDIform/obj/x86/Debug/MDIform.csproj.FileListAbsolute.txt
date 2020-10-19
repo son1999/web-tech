@@ -1,0 +1,8 @@
+F:\NguyenThaiSon\MDIform\MDIform\bin\Debug\MDIform.exe
+F:\NguyenThaiSon\MDIform\MDIform\bin\Debug\MDIform.pdb
+F:\NguyenThaiSon\MDIform\MDIform\obj\x86\Debug\MDIform.Form1.resources
+F:\NguyenThaiSon\MDIform\MDIform\obj\x86\Debug\MDIform.Properties.Resources.resources
+F:\NguyenThaiSon\MDIform\MDIform\obj\x86\Debug\MDIform.csproj.GenerateResource.Cache
+F:\NguyenThaiSon\MDIform\MDIform\obj\x86\Debug\MDIform.exe
+F:\NguyenThaiSon\MDIform\MDIform\obj\x86\Debug\MDIform.pdb
+F:\NguyenThaiSon\MDIform\MDIform\obj\x86\Debug\MDIform.csprojResolveAssemblyReference.cache

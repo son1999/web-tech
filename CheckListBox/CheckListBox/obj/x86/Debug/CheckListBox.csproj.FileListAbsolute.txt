@@ -1,0 +1,8 @@
+F:\NguyenThaiSon\CheckListBox\CheckListBox\bin\Debug\CheckListBox.exe
+F:\NguyenThaiSon\CheckListBox\CheckListBox\bin\Debug\CheckListBox.pdb
+F:\NguyenThaiSon\CheckListBox\CheckListBox\obj\x86\Debug\CheckListBox.Form1.resources
+F:\NguyenThaiSon\CheckListBox\CheckListBox\obj\x86\Debug\CheckListBox.Properties.Resources.resources
+F:\NguyenThaiSon\CheckListBox\CheckListBox\obj\x86\Debug\CheckListBox.csproj.GenerateResource.Cache
+F:\NguyenThaiSon\CheckListBox\CheckListBox\obj\x86\Debug\CheckListBox.exe
+F:\NguyenThaiSon\CheckListBox\CheckListBox\obj\x86\Debug\CheckListBox.pdb
+F:\NguyenThaiSon\CheckListBox\CheckListBox\obj\x86\Debug\CheckListBox.csprojResolveAssemblyReference.cache

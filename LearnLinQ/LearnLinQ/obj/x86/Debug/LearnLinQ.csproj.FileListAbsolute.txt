@@ -1,0 +1,9 @@
+F:\NguyenThaiSon\LearnLinQ\LearnLinQ\bin\Debug\LearnLinQ.exe.config
+F:\NguyenThaiSon\LearnLinQ\LearnLinQ\bin\Debug\LearnLinQ.exe
+F:\NguyenThaiSon\LearnLinQ\LearnLinQ\bin\Debug\LearnLinQ.pdb
+F:\NguyenThaiSon\LearnLinQ\LearnLinQ\obj\x86\Debug\LearnLinQ.Form1.resources
+F:\NguyenThaiSon\LearnLinQ\LearnLinQ\obj\x86\Debug\LearnLinQ.Properties.Resources.resources
+F:\NguyenThaiSon\LearnLinQ\LearnLinQ\obj\x86\Debug\LearnLinQ.csproj.GenerateResource.Cache
+F:\NguyenThaiSon\LearnLinQ\LearnLinQ\obj\x86\Debug\LearnLinQ.exe
+F:\NguyenThaiSon\LearnLinQ\LearnLinQ\obj\x86\Debug\LearnLinQ.pdb
+F:\NguyenThaiSon\LearnLinQ\LearnLinQ\obj\x86\Debug\LearnLinQ.csprojResolveAssemblyReference.cache
